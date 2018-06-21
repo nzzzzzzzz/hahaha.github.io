@@ -3,7 +3,7 @@ layout: post
 title:游戏
 tag: 你的激情是否在这
 ---
-![](/images/posts/iBeacon/33.jpg)
+![](/images/posts/iBeacon/88.jpg)
 怀抱梦想吧，然后无论何时都不要忘记特种兵的荣耀。不过即使不是特种兵也不妨抱着那颗心嘛。——扎克斯菲尔《最终幻想：核心危机》
 
 ### 绝地求生
