@@ -1,6 +1,8 @@
+
 ---
 layout: post
-title:游戏
+title: 游戏
+date: 2016-06-02 11:15:06 
 tag: 你的激情是否在这
 ---
 ![](/images/posts/iBeacon/88.jpg)
